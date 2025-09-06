@@ -9,4 +9,5 @@ Pembelajaran 2:
   - 2 orang atau lebih mengerjakan repo yang sama.
 
 - Merge adalah menggabungkan beberapa branch kembali ke branch mastenya.
-- File ini berada pada branch 'Pembuatan-Branch' dan tidak akan mengganggu branch utama
+- File ini berada pada branch 'Pembuatan-Branch' dan tidak akan mengganggu branch utama.
+- Pada commit ini akan menggabungkan branch 'Pembuatan-branch' ke master branch
