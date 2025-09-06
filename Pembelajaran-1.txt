@@ -1,0 +1,3 @@
+Pembelajaran 1 :
+- Pembuatan akun GitHub
+- Pembuatan repository baru
