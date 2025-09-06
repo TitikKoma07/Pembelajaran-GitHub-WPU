@@ -8,4 +8,5 @@ Pembelajaran 2:
   - Fitur exoerimental, membuat sebuah fitur yang tidak bisa diterapkan atau membuat fitur yang tidak selesai bisa menghapus branch tersebut.
   - 2 orang atau lebih mengerjakan repo yang sama.
 
-- Merge adalah menggabungkan beberapa branch kembali ke branch mastenya
+- Merge adalah menggabungkan beberapa branch kembali ke branch mastenya.
+- File ini berada pada branch 'Pembuatan-Branch' dan tidak akan mengganggu branch utama
