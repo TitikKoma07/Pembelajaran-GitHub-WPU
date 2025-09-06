@@ -2,3 +2,4 @@ Pembelajaran 1 :
 - Pembuatan akun GitHub
 - Pembuatan repository baru
 - Pembuatan commit 1
+= Pembuatan commit 2
