@@ -1,0 +1,13 @@
+Pembelajaran 2:
+
+- Branch adalah sebuah salinan atau cabang dari kode sumber utama di dalam sebuah repository yang memungkinkan Anda untuk bekerja pada fitur, perbaikan bug, atau eksperimen tanpa memengaruhi kode utama (sering disebut main atau master branch).
+
+- Branching:
+  - Membuat Git Branch
+  - Membuat snapshot tanpa menggangu jalur utama (master branch)
+  - Fitur exoerimental, membuat sebuah fitur yang tidak bisa diterapkan atau membuat fitur yang tidak selesai bisa menghapus branch tersebut.
+  - 2 orang atau lebih mengerjakan repo yang sama.
+
+- Merge adalah menggabungkan beberapa branch kembali ke branch mastenya.
+- File ini berada pada branch 'Pembuatan-Branch' dan tidak akan mengganggu branch utama.
+- Pada commit ini akan menggabungkan branch 'Pembuatan-branch' ke master branch
